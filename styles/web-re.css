@@ -1,0 +1,23 @@
+#map {
+    height: 600px; /* The height is 400 pixels */
+    width: 100%; /* The width is the width of the web page */
+  }
+  h1 {
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #86cffa;
+    text-shadow: 3px 3px 1px black;
+  }
+  h2 {
+    font-size: 20px;
+    text-align: end;
+    margin: 0;
+    padding: 20px 0;
+    color: #86cffa;
+    text-shadow: 3px 3px 1px black;
+  }
+  html{
+    background-color: black;
+  }
